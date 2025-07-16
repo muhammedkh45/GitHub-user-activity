@@ -34,3 +34,6 @@ This will output all `PushEvent` activities for the user `octocat`.
 ## Notes
 - The script uses the GitHub public API and requires a valid `User-Agent` header (handled in the code).
 - Make sure to provide both arguments, otherwise the script will throw an error.
+
+## References
+- [GitHub User Activity Project on roadmap.sh](https://roadmap.sh/projects/github-user-activity)
